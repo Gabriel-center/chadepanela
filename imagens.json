@@ -1,0 +1,40 @@
+{
+  "noivos": {
+    "noivo1": "Amanda",
+    "noivo2": "Gabriel",
+    "data": "2026-07-25",
+    "data_extenso": "25 de Julho de 2026"
+  },
+  "_obs": "Para cada imagem: 'arquivo' = nome do arquivo local no repositório (use se você baixou a foto). 'url' = link original do Casar.com (fallback). O site tenta carregar o arquivo local; se não existir, usa a url automaticamente. Para usar a foto original, basta deixar 'arquivo' vazio ou apagar o arquivo do repo.",
+  "capa": {
+    "arquivo": "capa.jpg",
+    "url": "https://cdn-assets-legacy.casar.com/thumb/autoxautox1xx0,0,963,1280/dados/sitenoivos/wed1376626/sliders/MBy7x_1772761891.jpg"
+  },
+  "retrato": {
+    "arquivo": "main.jpg",
+    "url": "https://vinicius-quiozini-fotografia.pixellu.gallery/gabriel-amanda/019ed733-6225-72e3-b1c7-e39ec3b5cb4a"
+  },
+  "galeria": [
+    {
+      "arquivo": "foto1.jpg",
+      "url": "https://cdn-assets-legacy.casar.com/thumb/autoxautox1xx0,0,963,1280/dados/sitenoivos/wed1376626/sliders/MBy7x_1772761891.jpg"
+    },
+    {
+      "arquivo": "foto2.jpg",
+      "url": "https://vinicius-quiozini-fotografia.pixellu.gallery/gabriel-amanda/019ed733-a6eb-7e31-921f-ae1b2f014398"
+    },
+    {
+      "arquivo": "foto3.jpg",
+      "url": "https://cdn-assets-legacy.casar.com/thumb/autoxautox1xx0,0,720,1280/dados/sitenoivos/wed1376626/sliders/QIvA2_1772762082.jpg"
+    },
+    {
+      "arquivo": "foto4.jpg",
+      "url": "https://cdn-assets-legacy.casar.com/thumb/autoxautox1xx-4,0,853,1280/dados/sitenoivos/wed1376626/sliders/x2RvD_1772762130.jpg"
+    }
+  ],
+  "pix": {
+    "chave": "ec62f95f-d87f-4913-af63-a3d8a4b8ab4c",
+    "nome": "AMANDA E GABRIEL",
+    "cidade": "CHA DE PANELA"
+  }
+}
